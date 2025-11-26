@@ -184,6 +184,3 @@ Special thanks to:
 For any questions or improvements, feel free to open an issue or contact:
 📧 **Tharun Guntupalli**
 
----
-
-### ✔ Your README is ready to copy into GitHub! Let me know if you want a PDF or want to refine the formatting.
